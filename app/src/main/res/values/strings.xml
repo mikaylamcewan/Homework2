@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Borger Kong</string>
+    <string name="itemPrice">itemPrice</string>
+    <string name="itemName">itemName</string>
+    <string name="todo">todo</string>
+    <string name="ViewOrderButton">View Order</string>
+    <string name="myorder">My Order</string>
+    <string name="TotalCost">Total Cost:</string>
+    <string name="amount">Amount</string>
+    <string name="menu">Menu</string>
+    <string name="Description">Description</string>
+    <string name="profilename">Mikayla McEwan</string>
+    <string name="textview">Your Order</string>
+    <string name="addtoorder">Add to Order</string>
+</resources>
